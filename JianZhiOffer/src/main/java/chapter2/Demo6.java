@@ -1,4 +1,4 @@
-package chapter;
+package chapter2;
 
 /**
  * @Author: Fengl
